@@ -288,14 +288,5 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1787586212.45814,
-    "completed_at": 1787586216.002446,
-    "comments": [
-      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
   }
 ]
