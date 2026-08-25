@@ -360,5 +360,14 @@
       "Expected commit message of 'Add the search feature', got 'modified features' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787642451.343366,
+    "completed_at": 1787642454.689729,
+    "comments": [
+      "Branch 'feature-delete' still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
